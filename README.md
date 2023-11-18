@@ -1,5 +1,4 @@
 # Ex03 Time Table
-
 ### Date : 12-10-2023
 
 ## AIM
@@ -59,7 +58,7 @@ Execute the program using runserver command.
 </head>
 <body>
     <img src = "http://training.saveetha.in/pluginfile.php/1/core_admin/logo/0x150/1623542614/logo_1.png" width = "800" height="150">
-    <h3 class = "name">SLOT TIMETABLE - ANBUSELVAN (212221040013)</h3>
+    <h3 class = "name">SLOT TIMETABLE - V R VIJAY KUMAR(212221040178)</h3>
     <table border="1" class = "table1">
         <tr class = "row1">
             <th class="c1">Day/Time</th>
@@ -157,8 +156,9 @@ Execute the program using runserver command.
 
 ![image](https://github.com/Anbuselvan04/slot/assets/119410896/a3b75a38-adfb-4b3e-94c8-04b2cf4047b6)
 
+![3SLOT TIMETABLE](https://github.com/VRVijaykumar123/FWAD-slot-exp3/assets/133218255/17089da2-34d5-4e95-b2fb-e7ba826925fc)
 
-![image](https://github.com/Anbuselvan04/slot/assets/119410896/22ac5b0b-33e0-4bbe-bf6d-6fa672f1b97e)
+
 
 
 ## RESULT
